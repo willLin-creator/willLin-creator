@@ -11,4 +11,4 @@ An operating system that turns an AI coding agent into a proactive chief of staf
 A language-agnostic generate → evaluate → fix harness for building software reliably with coding agents: sprint contracts, risk-tiered review depth, and loop closure. Built on Anthropic's harness-design pattern.
 
 ---
-Most interested in helping high-stakes, regulated institutions adopt AI carefully.
+Most interested in turning AI capability into products people actually trust.
